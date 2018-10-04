@@ -1,3 +1,8 @@
+Discontinued
+============
+This repository is no longer actively maintained. Please take a look at the [original repo](https://github.com/FortAwesome/Font-Awesome).
+
+
 #[Font Awesome v4.0.3](http://fontawesome.io)
 ###the iconic font designed for Bootstrap
 
